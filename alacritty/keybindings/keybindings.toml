@@ -1,0 +1,13 @@
+[[keyboard.bindings]]
+key = "C"
+mods = "Control|Shift"
+mode = "Vi"
+action= "ClearSelection"
+
+[[mouse.bindings]]
+mouse = "Forward"
+action = "ToggleViMode"
+
+[[mouse.bindings]]
+mouse = "Back"
+action = "CreateNewWindow"
