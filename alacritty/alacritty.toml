@@ -1,7 +1,8 @@
 [general]
 import = [
   "~/.config/alacritty/keybindings/keybindings.toml",
-  "~/.config/alacritty/themes/github-dark-dimmed.toml"
+  # "~/.config/alacritty/themes/github-dark-dimmed.toml"
+  "~/.config/alacritty/themes/tokyo-night-storm.toml"
 ]
 live_config_reload = true
 
